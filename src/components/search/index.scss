@@ -1,0 +1,10 @@
+.ant-input-wrapper {
+  width: 150%;
+  margin-left: 6.5%;
+  margin-top: 2%;
+
+  @media only screen and (max-width: 992px) {
+    width: 100%;
+    margin-left: 0;
+  }
+}
